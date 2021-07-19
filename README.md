@@ -1,5 +1,12 @@
 # Cat Care Application
 
+### Description
+
+Cat record keeping application created to record and track cat's immunization record and medical information.
+
+![image](https://user-images.githubusercontent.com/71230815/126091680-03a5a550-d3c4-4ac8-a580-903e6aa0fae8.png)
+
+
 ### Set up Python Virtual Environment
 
 virtualenv
@@ -63,3 +70,5 @@ https://www.sqlite.org/download.html
 5. Make the number of rows shown in the Table Widget dynamically. 
 
 6. Improve database display. (Instead of using excel format)
+
+7. Medical history tracker table and display.
