@@ -72,3 +72,7 @@ https://www.sqlite.org/download.html
 6. Improve database display. (Instead of using excel format)
 
 7. Medical history tracker table and display.
+
+8. Use visualization tools like graphs.
+
+9. Recommended cat care time line?
